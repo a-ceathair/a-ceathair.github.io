@@ -1,0 +1,83 @@
+a.general { font-size: 18px; font-weight: normal; color: #007B8C; text-decoration: none; font-family: sans-serif; float: left; padding: 14px 16px; }
+
+a.current { font-size: 18px; font-weight: bold; color: #007B8C; text-decoration: none; font-family: sans-serif; padding: 14px 16px; float: left; }
+
+.back { font-size: 18px; font-weight: normal; color: #007B8C; text-decoration: none; font-family: sans-serif; text-align: center; padding-bottom: 20px; }
+
+a.post { font-size: 18px; font-weight: normal; color: #007B8C; text-decoration: none; font-family: sans-serif; }
+
+a.memberslink { font-weight: normal; color: #007B8C; text-decoration: none; font-family: sans-serif; }
+
+.row1 { font-weight: normal; text-decoration: none; font-family: sans-serif; }
+
+h1 { font-size: 22px; font-weight: bold; color: #007B8C; text-decoration: none; font-family: sans-serif; }
+
+h2 { font-size: 20px; font-weight: bold; color: #007B8C; text-decoration: none; font-family: sans-serif; }
+
+h3 { font-size: 18px; font-weight: bold; color: #007B8C; text-decoration: none; font-family: sans-serif; }
+
+.navright { float: right; position: fixed; right: 0; top: 0; background-color: white; }
+
+th { color: #007B8C; }
+
+.logo { display: block; margin-left: auto; margin-right: auto; margin-top: 5em; max-width: 30%; max-height: 30%; }
+
+.main2 { display: block; flex-direction: row; margin-left: auto; margin-right: auto; }
+
+.wplogo { width: 100%; }
+
+.wpimage { width: 500px; margin-left: auto; margin-right: auto; float: center; }
+
+.column { flex: 33.33%; padding: 15px 1px 1px 1px; }
+
+.row { float: center; display: flex; }
+
+figcaption { text-align: center; }
+
+.euflag { padding-right: 0px; }
+
+.euflagimg { width: 80px; height: auto; right: 0px; }
+
+.posts { float: left; display: block; }
+
+.acknowledgement { display: block; float: left; width: 100%; bottom: 0px; font-size: 12px; }
+
+.wp3 { color: #7E8DBE; font-size: 20px; text-decoration: none; font-family: sans-serif; }
+
+.wp2 { color: #2A73BB; font-size: 20px; text-decoration: none; font-family: sans-serif; }
+
+.wp1 { color: #15417F; font-size: 20px; text-decoration: none; font-family: sans-serif; }
+
+.wp1_small { color: #15417F; font-size: 16px; text-decoration: none; font-family: sans-serif; }
+
+.wp2_small { color: #2A73BB; font-size: 16px; text-decoration: none; font-family: sans-serif; }
+
+.wp3_small { color: #7E8DBE; font-size: 16px; text-decoration: none; font-family: sans-serif; }
+
+.listing { list-style-type: none; }
+
+.standardpage { display: block; float: left; margin-top: 8em; width: 600px; }
+
+.navlink:link { font-weight: normal; color: d45c20; text-decoration: none; }
+
+.navlink:visited { font-weight: normal; color: d45c20; text-decoration: none; }
+
+.navlink:focus { font-weight: bold; color: d45c20; text-decoration: none; }
+
+.navlink:hover { font-weight: normal; color: d45c20; text-decoration: none; }
+
+.navlink:active { font-weight: normal; color: d45c20; text-decoration: none; }
+
+.publication { font-size: 14px; font-weight: normal; font-family: sans-serif; padding: 5px; }
+
+.mainauthor { font-weight: bold; }
+
+.journal { font-style: italic; }
+
+.navlogo { display: none; float: left; left: 0px; }
+
+.navlogoimg { width: 20px; height: 20px; }
+
+@media screen and (max-width: 700px) { .navlogo { display: block; float: left; left: 0px; top: 0px; } .navright { position: relative; float: left; left: 0; top: 1em; background-color: white; width: 150px; } a.general { font-size: 18px; font-weight: normal; color: #007B8C; text-decoration: none; font-family: sans-serif; float: none; padding: 14px; } a.current { font-size: 18px; font-weight: bold; color: #007B8C; text-decoration: none; font-family: sans-serif; padding: 14px; float: none; } .standardpage { display: block; float: left; margin-top: 2em; width: 100%; } .wpimage { width: 100%; margin-left: auto; margin-right: auto; float: center; } .row { display: none; } .posts { display: block; float: left; margin-top: 2em; width: 100%; } .listing { list-style-type: none; margin-left: 10px; } .main { float: left; width: 100%; right: 0em; } .logo { display: block; margin-top: 4em; max-width: 40%; max-height: 40%; right: 0em; } .acknowledgement { display: block; float: left; width: 100%; } }
+
+/*# sourceMappingURL=styles.css.map */
