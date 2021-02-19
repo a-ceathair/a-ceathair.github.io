@@ -32,6 +32,10 @@ th { color: #007B8C; }
 
 .row { float: center; display: flex; }
 
+.row::after { content: ""; clear: both; display: table; }
+
+.logoimg { display: block; margin-left: auto; margin-right: auto; width: 600px; height: 50px; }
+
 figcaption { text-align: center; }
 
 .euflag { padding-right: 0px; }
