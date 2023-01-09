@@ -8,6 +8,8 @@ a.post { font-size: 18px; font-weight: normal; color: #007B8C; text-decoration: 
 
 a.memberslink { font-weight: normal; color: #007B8C; text-decoration: none; font-family: sans-serif; }
 
+.pub { font-size: 14px; font-weight: normal; color: #007B8C; text-decoration: none; font-family: sans-serif; text-align: center; padding-bottom: 20px; }
+
 .row1 { font-weight: normal; text-decoration: none; font-family: sans-serif; }
 
 h1 { font-size: 22px; font-weight: bold; color: #007B8C; text-decoration: none; font-family: sans-serif; }
